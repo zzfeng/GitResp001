@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 		Log.i(TAG, "onCreate: first commit!");
 		Log.i(TAG, "onCreate: second commit!");
+		Log.i(TAG, "onCreate: third commit!");
 	}
 }
