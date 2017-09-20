@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
 		Log.i(TAG, "onCreate: first commit!");
 		Log.i(TAG, "onCreate: second commit!");
 		Log.i(TAG, "onCreate: third commit!");
-
-
 		Log.d(TAG, "onCreate: fourth commit!");
+
+		// 添加了注释，观察branch与master之间的联系
 	}
 }
