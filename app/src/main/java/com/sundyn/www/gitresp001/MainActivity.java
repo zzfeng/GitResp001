@@ -23,6 +23,6 @@ public class MainActivity extends AppCompatActivity {
 	}
 
 	private void test(){
-
+		Log.i(TAG, "test: 2017-09-21 09:27:57");
 	}
 }
